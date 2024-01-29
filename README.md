@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/alicandatli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alicandatli" height="30" width="40" /></a>
 <a href="https://kaggle.com/alidtl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alidtl" height="30" width="40" /></a>
-<a href="https://instagram.com/@alidtl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alidtl" height="30" width="40" /></a>
+<a href="https://instagram.com/alidtl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alidtl" height="30" width="40" /></a>
 <a href="https://medium.com/@alicandtl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alicandtl" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@alican_dtl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@alican_dtl" height="30" width="40" /></a>
 </p>
